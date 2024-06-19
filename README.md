@@ -8,3 +8,6 @@
         I create frontend projects for designing purpose and improving my design skills. 
     </p>
 </div>
+
+<h4>Home Page of Website</h4>
+![image](https://github.com/ashlesh003/Clone-Website-Amazon.com/assets/142968670/1fd775bf-de8f-433a-be2c-fb4ef00dc93d)
