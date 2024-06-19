@@ -1,4 +1,4 @@
-<h2> Clone Website (Amazon.com) </h2>
+# Clone Website (Amazon.com)
 
 <div>
     <p>	
@@ -9,5 +9,5 @@
     </p>
 </div>
 
-<h4>Home Page of Website</h4>
-![image](https://github.com/ashlesh003/Clone-Website-Amazon.com/assets/142968670/1fd775bf-de8f-433a-be2c-fb4ef00dc93d)
+<h3>Home Page of Website</h3>
+![Screenshot 2024-06-19 173907](https://github.com/ashlesh003/Clone-Website-Amazon.com/assets/142968670/3d5a9e98-a445-4910-a478-42e3e4117e6a)
